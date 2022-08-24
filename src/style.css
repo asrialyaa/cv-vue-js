@@ -1,0 +1,15 @@
+
+  nav{
+    display: flex;
+    font-size: 20px;
+    left: 4rem;
+    top: 2rem;
+  }
+  nav .tengah a {
+    position: relative;
+    left: 6rem;
+    padding: 0 20px;
+  }
+  nav .logo{
+    position: relative;
+  }
